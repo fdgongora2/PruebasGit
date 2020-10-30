@@ -4,7 +4,7 @@
              x:Class="AppPruebasGit2.MainPage">
 
     <StackLayout>
-        <Label Text="HOLA"></Label>
+        <Label Text="ADIÓS"></Label>
     </StackLayout>
 
 </ContentPage>
